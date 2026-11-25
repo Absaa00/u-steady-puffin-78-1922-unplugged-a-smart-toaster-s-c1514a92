@@ -1,0 +1,13 @@
+# Unplugged: A Smart Toaster's Breakup Line (u-steady-puffin-78-1922) — ignores.
+# Toast crumbs belong in the tray, not in git: keep the entry snapshot clean.
+__pycache__/
+*.py[cod]
+# Local test output from running main.py on this machine.
+output/
+# The make.fun kit archive lives beside the repo, never inside it.
+/output/
+# macOS Finder metadata, in case this repo is ever opened on a Mac.
+.DS_Store
+# Editor backup and swap files from late-night toaster edits.
+*.swp
+*~
